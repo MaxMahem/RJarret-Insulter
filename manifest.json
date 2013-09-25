@@ -1,0 +1,12 @@
+{
+  "name": "RJarret Plugin",
+  "description": "Insults you like you deserve. Looser.",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [
+    "alarms"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
