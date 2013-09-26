@@ -1,10 +1,11 @@
 {
-  "name": "RJarret Plugin",
-  "description": "Insults you like you deserve. Looser.",
-  "version": "1.0",
+  "name": "RJarret Insulter",
+  "description": "Insults you like you deserve. Loser.",
+  "version": "2.0",
   "manifest_version": 2,
   "permissions": [
-    "alarms"
+    "alarms",
+    "http://deride.me/"
   ],
   "background": {
     "scripts": ["background.js"]
